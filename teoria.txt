@@ -1,0 +1,7 @@
+Respuesta 1
+Se debe usar framework porque permite un desarrollo agil mediante la aportacion de funcionalidades embebidad en la libreria, de esta manera el programador podra centrarse en resolver verdaderos problemas y no perder tiempo en hacer codigo de funcionalidades que se utilizan comunmente como formularios, login, conexion con base de datos. 
+Respuesta 2 
+los beneficios son: mejor mantenimiento de codigo, diseño MVC (modelo, vista, controlador), permite trabajo en equipo.
+Respuesta 3 
+Versiones inestables. El hecho de que los frameworks sean tan populares provoca que estén en constante actualización para cumplir con las nuevas tecnologías y las nuevas políticas de seguridad. Por ello, si en el desarrollo surgen incompatibilidades con otras librerías o se detectan errores de seguridad, la elección de una versión muy reciente del framework podría ralentizarnos.
+Código sin utilizar. Si la aplicación es pequeña o no requiere mucha funcionalidad, probablemente estaremos desaprovechando mucho código que viene implementado en el framework, por lo que la aplicación ocupará más espacio del que realmente necesitaría.
